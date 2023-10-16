@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentParamGroup">
+    <option name="bodyParamMap">
+      <map>
+        <entry key="tarefaDto">
+          <value>
+            <Object />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="className" value="com.company.ApiJava.tarefas.api.Api" />
+    <option name="method" value="criar" />
+    <option name="methodType" value="POST" />
+    <option name="module" value="Api-java-sb" />
+    <option name="originUrl" value="/tarefas/" />
+    <option name="returnDocument" value="{&quot;id&quot;:&quot;No comment,Type =Number&quot;,&quot;titulo&quot;:&quot;No comment,Type =String&quot;,&quot;descricao&quot;:&quot;No comment,Type =String&quot;}" />
+  </component>
+</project>
